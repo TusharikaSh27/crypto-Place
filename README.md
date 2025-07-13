@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # crypto-place
-Crypto-Place is a crypto price tracking site bulit using react js helps you find the current  price of crypto currencies in the market
+Crypto-Place is a crypto price tracking site bulit using react js helps you find the current  price of crypto currencies in the marketplace.
 >>>>>>> 638f4439d0ddb3f4d8eaa3db8681421349c3fc8c
