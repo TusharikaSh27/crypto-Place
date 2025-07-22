@@ -5,8 +5,8 @@ Empowering your Crypto Journey with real-time insights
 
 
 ## Table of Contents
-= # Overview
-- # Getting Started
+- ## Overview
+- ## Getting Started
     - Prereqisites
     - Installation
     - Usage
@@ -44,7 +44,7 @@ This project requires the following dependencies
 - PACKAGE MANAGER - Npm
 
 
-  ## INSTALLATION
+  ### INSTALLATION
 
   Build crypto=Place from scratch and install dependencies
   1- Clone the repository
@@ -58,7 +58,7 @@ This project requires the following dependencies
   >npm install
 
 
-  ## USAGE
+  ### USAGE
 
   Run the project with:
   using npm:
@@ -66,7 +66,7 @@ This project requires the following dependencies
 
 
 
-  ## TESTING
+  ### TESTING
   crypto-Place uses the {test_framework}test framework
 
   Run the suite with:
