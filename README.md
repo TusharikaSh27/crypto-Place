@@ -13,12 +13,13 @@ Empowering your Crypto Journey with real-time insights deployed on netlify
     - Usage
     - Testing
 # Screenshots 
-<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/d660de14-784e-401f-90ce-4326e4e23323" />
 
-<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/d5d1bf0a-894d-4885-ae6f-55ea861a4910" />
+<img width="1856" height="978" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/946f4eb4-316d-41a6-a10d-4ee36694001e" />
 
+<img width="1920" height="915" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/9389ad75-f1e4-41b8-8e5b-60d689485595" />
 
-<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/97521707-0ce3-4438-a065-3f1789fd16ef" />
+<img width="1920" height="974" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/3ecaff11-0c51-45be-9067-c268d68e3e33" />
+
 
 
 
