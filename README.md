@@ -1,17 +1,30 @@
 
 # CRYPTO-PLACE
-Empowering your Crypto Journey with real-time insights
+Empowering your Crypto Journey with real-time insights deployed on netlify
 
 
 
 ## Table of Contents
+- Screenshots
 - ## Overview
 - ## Getting Started
     - Prereqisites
     - Installation
     - Usage
     - Testing
- 
+# Screenshots 
+<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/d660de14-784e-401f-90ce-4326e4e23323" />
+
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/d5d1bf0a-894d-4885-ae6f-55ea861a4910" />
+
+
+<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/97521707-0ce3-4438-a065-3f1789fd16ef" />
+
+
+
+
+
+
 # OVERVIEW
 CryptoPlace is a React powered cryptocurrency platform that enables developers to build  real-time crypto price tracking applications with ease.It provides a solid foundation for fetching,displaying and monitoring real-time maeket data, ensuring a responsive and engaging user experience.
 
